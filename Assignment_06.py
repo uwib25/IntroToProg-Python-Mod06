@@ -10,13 +10,13 @@ import json
 
 
 MENU: str = '''
----- Student GPAs ------------------------------
+---- Course Registration Program --------------
   Select from the following menu:  
     1. Show current student data. 
     2. Enter new student data.
     3. Save data to a file.
     4. Exit the program.
--------------------------------------------------- 
+----------------------------------------------- 
 '''
 
 FILE_NAME: str = 'Enrollments.json'
