@@ -27,7 +27,7 @@ students: list = []  # a table of student data
 
 class FileProcessor:
     """
-    This class manages user input and output
+    A collection of processing layer functions that work with JSON files
     IB, 5/21/2024, Created Class
     IB, 5/22/2024, Updated CLass
     """
